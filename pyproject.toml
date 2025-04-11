@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Transform arXiv papers into a single LaTeX source that can be used as a prompt for asking LLMs questions about the paper."
 requires-python = ">=3.10"
 # drop an unused branch
+# drop an unused branch
